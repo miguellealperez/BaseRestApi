@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FuncionalApplication {
 
     public static void main(String[] args) {
+        
         SpringApplication.run(FuncionalApplication.class, args);
     }
 
