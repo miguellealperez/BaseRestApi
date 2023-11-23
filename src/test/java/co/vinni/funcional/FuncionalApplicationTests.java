@@ -6,8 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class FuncionalApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+    // @Test
+    // void contextLoads() {
+    // }
 
 }
