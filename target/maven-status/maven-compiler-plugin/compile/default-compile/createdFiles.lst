@@ -1,0 +1,11 @@
+co\vinni\funcional\repositorio\PropietarioRepositorio.class
+co\vinni\funcional\servicios\VehiculoServicio.class
+co\vinni\funcional\FuncionalApplication.class
+co\vinni\funcional\controller\PropietarioController.class
+co\vinni\funcional\modelo\Vehiculo.class
+co\vinni\funcional\servicios\PropietarioServicio.class
+co\vinni\funcional\repositorio\VehiculoRepositorio.class
+co\vinni\funcional\modelo\SeguroToRiesgo.class
+co\vinni\funcional\controller\VehiculoController.class
+co\vinni\funcional\modelo\Propietario.class
+co\vinni\funcional\modelo\Soat.class
